@@ -2,7 +2,7 @@
 Final for JCCC JavaScript class. Made in May 2018. <br>
 Here is the rubric that I pulled from the following site. <li>http://students.jccc.edu/lisalfri/web114/final/instructions.html</li>
 <br>
-Steps:
+Requirements:
 
 Create a well-formed, semantically correct html page. Include appropriate wireframe tags.<br>
 Include a div to wrap all content in the body.<br>
