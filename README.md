@@ -1,5 +1,5 @@
 # Javascript-game<br>
-Final for JCCC JavaScript class. Made in May 2018. <br>
+Final for JCCC JavaScript class.  <br>
 Here is the rubric that I pulled from the following site. <li>http://students.jccc.edu/lisalfri/web114/final/instructions.html</li>
 <br>
 Requirements:
